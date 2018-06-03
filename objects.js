@@ -1,3 +1,3 @@
 var playslist = {
-  artist names: ''
+  artist names: 'song titles'
 }
