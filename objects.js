@@ -1,0 +1,3 @@
+var playslist = {
+  artist names: ''
+}
